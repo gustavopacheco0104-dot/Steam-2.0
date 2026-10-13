@@ -1,4 +1,4 @@
-# GameVault
+# Steam 2.0
 
 Aplicación móvil de tienda y comunidad de videojuegos
 
